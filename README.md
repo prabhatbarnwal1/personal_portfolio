@@ -42,15 +42,10 @@ To run this website locally, you only need a web browser.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/prabhatbarnwal1/personal_portfolio.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio-website
-    ```
-
-3. Open the `index.html` file in your preferred web browser:
+2. Open the `index.html` file in your preferred web browser:
     ```bash
     open index.html
     ```
